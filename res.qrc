@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>png/home.png</file>
+        <file>png/next.png</file>
+        <file>png/prev.png</file>
+        <file>png/refresh.png</file>
+        <file>png/stop.png</file>
+        <file>png/web.png</file>
+        <file>png/enter.png</file>
+    </qresource>
+</RCC>
